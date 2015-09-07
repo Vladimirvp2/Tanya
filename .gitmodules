@@ -1,0 +1,3 @@
+[submodule "Snake2"]
+	path = Snake2
+	url = git://github.com/Vladimirvp2/Snake.git
